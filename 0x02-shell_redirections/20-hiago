@@ -1,2 +1,2 @@
 #!/bin/bach
-tr -d "Cc"
+tr -d "cC"

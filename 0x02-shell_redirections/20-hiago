@@ -1,2 +1,2 @@
-#!/bin/bach
-tr -d "cC"
+#!/bin/bash
+tr -d "Cc"
